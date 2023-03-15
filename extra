@@ -1,0 +1,28 @@
+For the relationship between attending classes, studying with others, seeking help from professors or teaching assistants, and using study aids and CGPA, we can create a new column in our dataframe that assigns a value of 1 to students who meet these criteria and a value of 0 to those who do not. We can then use a bar plot to compare the mean CGPA of these two groups.
+
+python
+Copy code
+# create a new column that assigns a value of 1 to students who attend classes, study with others, seek help from professors or teaching assistants, and use study aids, and a value of 0 to those who do not
+df['study_habits'] = df['attend_classes'].replace(['always', 'mostly', 'sometimes'], 1)
+df['study_habits'] = df['study_habits'].fillna(0)
+df['study_habits'] = df['study_habits'] + df['study_with_others'] + df['help_from_professors'] + df['use_study_aids']
+df['study_habits'] = df['study_habits'].replace([1,2,3], 0)
+df['study_habits'] = df['study_habits'].replace([0,4], 1)
+
+# bar plot of mean CGPA for students with good study habits vs those without
+good_habits = df[df['study_habits'] == 1]['CGPA'].mean()
+bad_habits = df[df['study_habits'] == 0]['CGPA'].mean()
+plt.bar(['Good Study Habits', 'Poor Study Habits'], [good_habits, bad_habits])
+plt.ylabel('Mean CGPA')
+plt.show()
+Finally, for the relationship between having a part-time job or internship and commuting to campus using public transportation and CGPA, we can use a box plot to compare the CGPA of students who fit these criteria with those who do not.
+
+python
+Copy code
+# box plot of CGPA for students with and without a part-time job/internship who commute using public transportation
+job_and_commute = df[(df['part_time_job'] == 'yes') & (df['commute_method'] == 'public_transport')]
+no_job_or_commute = df[(df['part_time_job'] == 'no') | (df['commute_method'] != 'public_transport')]
+data = [job_and_commute['CGPA'], no_job_or_commute['CGPA']]
+plt.boxplot(data, labels=['Part-Time Job/Internship and Public Transportation', 'No Part-Time Job/Internship or Public Transportation'])
+plt.ylabel('CGPA')
+plt.show()

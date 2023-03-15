@@ -1,0 +1,24 @@
+Timestamp,"Do you prefer to study in the morning, afternoon, or evening?","How often do you exercise or engage in physical activity each week? (hours in number)
+Its ok to say 0 like me",Do you play video games?,Do you watch movies or TV shows regularly?,"If you watch movies or TV shows, what genre(s) do you prefer?",How many hours of sleep do you usually get each night? (hours in number),How often do you use social media each day? (hours in number),"How many hours per week do you spend on extracurricular activities (such as sports, music, or volunteering) (hours in number)  ?",How often do you attend classes?,Do you usually study alone or with others?,How often do you seek help from professors or teaching assistants?,"Do you use any study aids, such as flashcards or study guides?",How often do you attend office hours or tutoring sessions?,Do you have a part-time job or internship?,How do you usually commute to campus?,How often do you meet with academic advisors?,"On average, how many hours do you study each day? (hours in number)",Do you take breaks or naps during study sessions? ,What is your current CGPA?
+3/15/2023 14:43:50,Evening,5,Yes,Yes,Action,5,6,3,Mostly,Alone,Sometimes,No,Never,No,Walk,Sometimes,1,Yes,3.15
+3/15/2023 16:03:58,Evening,0,No,Yes,Science Fiction,5,5,2,Mostly,Alone,Sometimes,No,Sometimes,No,Walk,Sometimes,3,Yes,3.4
+3/15/2023 16:06:37,Evening,15,No,Yes,Drama,10,5,2,Always,With Friends,Sometimes,No,Never,No,Walk,Sometimes,2,Yes,3
+3/15/2023 16:18:59,Evening,0,Yes,Yes,Action,3,0,15,Mostly,Alone,Never,No,Never,Yes,Public Transport,Sometimes,2,No,3.73
+3/15/2023 17:51:19,Evening,1,Yes,Yes,Action,8,5,10,Always,Alone,Sometimes,Yes,Sometimes,No,Walk,Sometimes,1,No,3.2
+3/15/2023 18:27:34,Evening,8,Yes,No,"Action, Drama, Science Fiction",6,5,24,Mostly,Alone,Never,No,Always,Yes,Public Transport,Never,2,No,3.25
+3/15/2023 18:29:28,Evening,0,Yes,Yes,"Action, Comedy, Drama, Science Fiction",6,4,0,Sometimes,With Friends,Sometimes,Yes,Always,Yes,Public Transport,Sometimes,3,Yes,3.48
+3/15/2023 18:53:26,Evening,7,No,Yes,Action,7,2,10,Always,Alone,Sometimes,No,Sometimes,No,Walk,Sometimes,4,Yes,2.9
+3/15/2023 19:27:58,Evening,7,Yes,Yes,"Action, Comedy, Drama, Horror, Science Fiction",7,3,5,Always,Alone,Often,No,Never,Yes,Public Transport,Never,2,Yes,3.9
+3/15/2023 19:40:49,Morning,1,No,No,"Action, Comedy, Drama, Horror, Science Fiction",4,6,1,Always,Alone,Sometimes,No,Sometimes,No,Public Transport,Always,9,Yes,3.28
+3/15/2023 19:53:37,Evening,0,Yes,Yes,"Action, Comedy, Science Fiction",8,8,30,Sometimes,Alone,Never,No,Never,No,Drive,Never,1,Yes,3.31
+3/15/2023 20:02:09,Afternoon,0,No,No,Action,6,13,0,Sometimes,With Friends,Sometimes,No,Sometimes,No,Drive,Never,0,Yes,2.9
+3/15/2023 20:20:50,Morning,8,No,Yes,Science Fiction,8,3,7,Always,Alone,Sometimes,Yes,Often,Yes,Walk,Sometimes,2,Yes,3.15
+3/15/2023 20:41:15,Evening,0,No,Yes,"Comedy, Science Fiction",6,4,0,Sometimes,Alone,Never,No,Never,No,Public Transport,Never,3,No,3.75
+3/15/2023 20:44:13,Afternoon,1,Yes,No,"Action, Drama, Science Fiction",5,1,1,Always,Alone,Never,No,Never,Yes,Shuttle,Never,1,Yes,3.81
+3/15/2023 21:34:00,Evening,2,Yes,Yes,"Action, Comedy, Drama, Horror, Science Fiction",8,2,12,Never,Alone,Sometimes,Yes,Sometimes,No,Bike,Never,1,Yes,3.44
+3/15/2023 21:53:25,Morning,7,No,No,"Action, Comedy",6,4,14,Always,With Friends,Sometimes,No,Sometimes,No,Public Transport,Sometimes,2,No,3.46
+3/15/2023 22:13:49,Evening,12,Yes,No,"Action, Comedy, Drama, Horror, Science Fiction",6,4,3,Mostly,Alone,Never,No,Never,Yes,Shuttle,Often,1,No,3.64
+3/15/2023 22:16:34,Morning,0,Yes,Yes,"Comedy, Drama",4/5,2,0,Sometimes,With Friends,Sometimes,No,Sometimes,No,Public Transport,Sometimes,1,Yes,3.2
+3/15/2023 22:17:16,Morning,2,No,Yes,"Action, Comedy, Science Fiction",6,2,2,Mostly,Alone,Sometimes,No,Never,No,Walk,Sometimes,2,Yes,3.7
+3/15/2023 22:18:28,Evening,0,No,No,"Comedy, Drama",6,3,2,Always,Alone,Sometimes,No,Sometimes,No,Public Transport,Sometimes,2,Yes,3.96
+3/15/2023 22:38:42,Morning,4,No,No,Comedy,6,1,2,Always,Alone,Sometimes,Yes,Sometimes,No,Public Transport,Sometimes,4,Yes,4
