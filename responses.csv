@@ -1,0 +1,206 @@
+Timestamp,"Do you prefer to study in the morning, afternoon, or evening?","How often do you exercise or engage in physical activity each week? (hours in number)
+Its ok to say 0 like me",Do you play video games?,Do you watch movies or TV shows regularly?,"If you watch movies or TV shows, what genre(s) do you prefer?",How many hours of sleep do you usually get each night? (hours in number),How often do you use social media each day? (hours in number),extracurricular_hours,How often do you attend classes?,Do you usually study alone or with others?,How often do you seek help from professors or teaching assistants?,"Do you use any study aids, such as flashcards or study guides?",How often do you attend office hours or tutoring sessions?,Do you have a part-time job or internship?,How do you usually commute to campus?,How often do you meet with academic advisors?,"On average, how many hours do you study each day? (hours in number)",naps,What is your current CGPA?
+3/15/2023 14:43:50,Evening,5,Yes,Yes,Action,5,6,3,Mostly,Alone,Sometimes,No,Never,No,Walk,Sometimes,3,Yes,3.15
+3/15/2023 16:03:58,Evening,0,No,Yes,Science Fiction,5,5,2,Mostly,Alone,Sometimes,No,Sometimes,No,Walk,Sometimes,3,Yes,3.4
+3/15/2023 16:06:37,Evening,15,No,Yes,Drama,10,5,2,Always,With Friends,Sometimes,No,Never,No,Walk,Sometimes,2,Yes,3
+3/15/2023 16:18:59,Evening,0,Yes,Yes,Action,3,0,15,Mostly,Alone,Never,No,Never,Yes,Public Transport,Sometimes,5,No,3.73
+3/15/2023 17:51:19,Evening,1,Yes,Yes,Action,8,5,10,Always,Alone,Sometimes,Yes,Sometimes,No,Walk,Sometimes,3,No,3.2
+3/15/2023 18:27:34,Evening,8,Yes,No,"Action, Drama, Science Fiction",6,5,24,Mostly,Alone,Never,No,Always,Yes,Public Transport,Never,2,No,3.25
+3/15/2023 18:29:28,Evening,0,Yes,Yes,"Action, Comedy, Drama, Science Fiction",6,4,0,Sometimes,With Friends,Sometimes,Yes,Always,Yes,Public Transport,Sometimes,3,Yes,3.48
+3/15/2023 18:53:26,Evening,7,No,Yes,Action,7,2,10,Always,Alone,Sometimes,No,Sometimes,No,Walk,Sometimes,4,Yes,2.9
+3/15/2023 19:27:58,Evening,7,Yes,Yes,"Action, Comedy, Drama, Horror, Science Fiction",7,3,5,Always,Alone,Often,No,Never,Yes,Public Transport,Never,2,Yes,3.9
+3/15/2023 19:40:49,Morning,1,No,No,"Action, Comedy, Drama, Horror, Science Fiction",4,6,1,Always,Alone,Sometimes,No,Sometimes,No,Public Transport,Always,9,Yes,3.28
+3/15/2023 19:53:37,Evening,0,Yes,Yes,"Action, Comedy, Science Fiction",8,8,30,Sometimes,Alone,Never,No,Never,No,Drive,Never,1,Yes,3.31
+3/15/2023 20:02:09,Afternoon,0,No,No,Action,6,13,0,Sometimes,With Friends,Sometimes,No,Sometimes,No,Drive,Never,3,Yes,2.9
+3/15/2023 20:20:50,Morning,8,No,Yes,Science Fiction,8,3,7,Always,Alone,Sometimes,Yes,Often,Yes,Walk,Sometimes,2,Yes,3.15
+3/15/2023 20:41:15,Evening,0,No,Yes,"Comedy, Science Fiction",6,4,0,Sometimes,Alone,Never,No,Never,No,Public Transport,Never,3,No,3.75
+3/15/2023 20:44:13,Afternoon,1,Yes,No,"Action, Drama, Science Fiction",5,1,1,Always,Alone,Never,No,Never,Yes,Shuttle,Never,1,Yes,3.81
+3/15/2023 21:34:00,Evening,2,Yes,Yes,"Action, Comedy, Drama, Horror, Science Fiction",8,2,12,Never,Alone,Sometimes,Yes,Sometimes,No,Bike,Never,1,Yes,3.44
+3/15/2023 21:53:25,Morning,7,No,No,"Action, Comedy",6,4,14,Always,With Friends,Sometimes,No,Sometimes,No,Public Transport,Sometimes,2,No,3.46
+3/15/2023 22:13:49,Evening,12,Yes,No,"Action, Comedy, Drama, Horror, Science Fiction",6,4,3,Mostly,Alone,Never,No,Never,Yes,Shuttle,Often,1,No,3.64
+3/15/2023 22:16:34,Morning,0,Yes,Yes,"Comedy, Drama",5,2,0,Sometimes,With Friends,Sometimes,No,Sometimes,No,Public Transport,Sometimes,1,Yes,3.2
+3/15/2023 22:17:16,Morning,2,No,Yes,"Action, Comedy, Science Fiction",6,2,2,Mostly,Alone,Sometimes,No,Never,No,Walk,Sometimes,2,Yes,3.7
+3/15/2023 22:18:28,Evening,0,No,No,"Comedy, Drama",6,3,2,Always,Alone,Sometimes,No,Sometimes,No,Public Transport,Sometimes,5,Yes,3.96
+3/15/2023 22:38:42,Morning,4,No,No,Comedy,6,1,2,Always,Alone,Sometimes,Yes,Sometimes,No,Public Transport,Sometimes,4,Yes,4
+3/16/2023 0:10:13,Evening,3,Yes,Yes,"Comedy, Drama, Horror, Science Fiction",7,8,17,Always,Alone,Never,No,Never,No,Public Transport,Never,3,No,3.77
+3/16/2023 5:28:56,Morning,1,Yes,Yes,Drama,6,1,5,Mostly,With Friends,Sometimes,No,Often,No,Bike,Sometimes,1,Yes,3.2
+3/16/2023 10:45:14,Evening,0.33,No,Yes,"Action, Comedy, Drama",4.5,0,0,Always,Alone,Sometimes,No,Sometimes,No,Drive,Sometimes,1.5,Yes,3.1
+3/16/2023 11:40:04,Evening,0,Yes,Yes,"Action, Comedy, Drama, Horror, Science Fiction",6.5,2,0,Mostly,Alone,Sometimes,No,Often,No,Public Transport,Often,3.5,Yes,2.3
+3/16/2023 22:38:11,Morning,4,No,No,"Action, Comedy, Drama, Horror, Science Fiction",7,3,0,Always,Alone,Never,No,Sometimes,Yes,Walk,Sometimes,1,Yes,2.3
+3/17/2023 2:58:15,Morning,2,Yes,Yes,Science Fiction,7,6,4,Always,Alone,Sometimes,No,Sometimes,No,Walk,Sometimes,2,Yes,3.78
+3/17/2023 3:48:53,Evening,6,Yes,Yes,"Action, Comedy, Science Fiction",6,3,7,Mostly,Alone,Sometimes,No,Never,Yes,Public Transport,Sometimes,2,No,3.78
+3/17/2023 8:23:56,Morning,0,No,No,"Horror, Science Fiction",5.6,4,4.5,Always,Alone,Often,No,Never,No,Walk,Sometimes,5.5,Yes,2.3
+3/17/2023 11:00:51,Evening,2,Yes,Yes,"Comedy, Drama, Horror",5.5,7.5,3.5,Always,Alone,Often,No,Never,No,Drive,Never,7.5,Yes,2.3
+3/17/2023 11:03:11,Morning,0,No,No,Action,6,4,1,Always,With Friends,Sometimes,No,Never,No,Public Transport,Sometimes,1,No,2.17
+3/17/2023 11:05:52,Evening,3.5,No,No,Comedy,6.5,3.5,4.5,Mostly,Alone,Sometimes,Yes,Sometimes,No,Public Transport,Sometimes,2.5,Yes,2.9
+3/17/2023 11:07:24,Evening,2.3,Yes,Yes,"Action, Horror, Science Fiction",7.5,10,10,Always,Alone,Sometimes,Yes,Never,No,Walk,Never,3,No,2.3
+3/17/2023 11:08:15,Evening,12,Yes,No,"Action, Comedy, Horror, Science Fiction",8,5.5,0,Always,Alone,Never,No,Never,No,Walk,Never,1,No,3.9
+3/17/2023 11:24:36,Morning,0,No,Yes,"Action, Drama",6.5,3.5,2.5,Always,Alone,Sometimes,No,Sometimes,No,Public Transport,Sometimes,3.5,Yes,2.3
+3/17/2023 11:25:17,Evening,1,No,Yes,Drama,6.5,4.5,30,Mostly,Alone,Never,Yes,Never,No,Walk,Sometimes,3,Yes,2.3
+3/17/2023 11:30:15,Morning,1,No,No,"Comedy, Drama",4.5,4.5,2,Always,Alone,Never,No,Never,No,Public Transport,Sometimes,1,No,3.27
+3/17/2023 11:42:18,Morning,0,Yes,Yes,Drama,7.8,4,2,Always,Alone,Always,No,Often,No,Public Transport,Sometimes,4,No,3.3
+3/17/2023 11:56:49,Afternoon,0,No,No,Comedy,7,1,2,Always,Alone,Sometimes,No,Never,No,Drive,Never,1,Yes,3.15
+3/17/2023 11:57:39,Evening,0,No,Yes,Science Fiction,8,14,1,Mostly,Alone,Never,No,Never,No,Public Transport,Never,0,No,3.9
+3/17/2023 12:00:29,Morning,5,No,No,"Action, Comedy, Drama",6.7,2.5,1,Always,With Friends,Always,No,Never,No,Public Transport,Always,2.5,Yes,3.06
+3/17/2023 12:03:41,Morning,0,Yes,No,"Action, Comedy, Horror, Science Fiction",6,4.5,20,Mostly,Alone,Sometimes,No,Sometimes,No,Shuttle,Sometimes,4,Yes,2.3
+3/17/2023 12:05:08,Morning,10,Yes,Yes,Comedy,8,4,12,Mostly,Alone,Sometimes,No,Sometimes,No,Public Transport,Sometimes,3,Yes,2.72
+3/17/2023 12:25:20,Morning,4,Yes,No,"Action, Comedy, Science Fiction",8,3,20,Always,Alone,Sometimes,No,Sometimes,No,Public Transport,Sometimes,2,Yes,3.72
+3/17/2023 12:28:44,Evening,0,No,No,Horror,6,17,14,Always,Alone,Never,No,Often,No,Public Transport,Never,4,No,3.5
+3/17/2023 12:32:37,Morning,3,No,Yes,"Action, Drama, Horror",4,0.5,3,Always,Alone,Sometimes,No,Sometimes,No,Public Transport,Sometimes,1,Yes,3.49
+3/17/2023 12:49:15,Morning,0.5,No,Yes,Action,4,0,0,Always,Alone,Sometimes,No,Never,No,Walk,Often,3,Yes,2.3
+3/17/2023 12:55:12,Evening,0,No,Yes,"Action, Comedy, Drama, Science Fiction",8,7,10,Always,Alone,Sometimes,No,Never,No,Public Transport,Sometimes,4,No,3.11
+3/17/2023 12:55:33,Morning,11,Yes,No,Action,7,2,11,Mostly,Alone,Never,No,Never,No,Public Transport,Sometimes,2,No,3
+3/17/2023 13:10:04,Morning,7,Yes,Yes,"Action, Comedy, Drama, Science Fiction",5.5,15,30,Always,Alone,Sometimes,No,Often,Yes,Public Transport,Often,1,Yes,3.6
+3/17/2023 13:15:45,Morning,2,Yes,Yes,"Action, Comedy, Horror, Science Fiction",8,1.5,30,Always,Alone,Sometimes,No,Never,No,Bike,Often,2,No,3.5
+3/17/2023 13:16:07,Morning,0,Yes,Yes,Comedy,7,1.5,6.5,Always,Alone,Sometimes,No,Never,No,Public Transport,Sometimes,3,Yes,2.93
+3/17/2023 13:16:39,Morning,0,Yes,Yes,Action,7,3.5,0.5,Always,With Friends,Sometimes,No,Never,No,Public Transport,Sometimes,2,Yes,2.3
+3/17/2023 13:16:56,Morning,0,No,No,Drama,6,5,1,Always,Alone,Sometimes,Yes,Never,No,Public Transport,Never,2,Yes,2.3
+3/17/2023 13:17:35,Morning,4.5,Yes,Yes,Comedy,6,3,4,Always,With Friends,Often,No,Never,No,Public Transport,Sometimes,2,No,2.3
+3/17/2023 13:21:00,Morning,0,No,No,Comedy,7,3,3.5,Always,Alone,Sometimes,No,Never,No,Public Transport,Sometimes,3,Yes,2.3
+3/17/2023 13:28:14,Evening,0,Yes,No,"Comedy, Horror",4,5,5,Always,Alone,Sometimes,No,Sometimes,Yes,Bike,Sometimes,3,Yes,3.75
+3/17/2023 14:00:40,Afternoon,0,No,Yes,Horror,3.5,20,2,Always,Alone,Never,No,Never,No,Public Transport,Never,1,Yes,2.3
+3/17/2023 14:06:26,Evening,1.5,No,Yes,"Drama, Horror, Science Fiction",6.5,5.5,1.5,Mostly,Alone,Sometimes,No,Sometimes,Yes,Shuttle,Never,5,Yes,4
+3/17/2023 14:10:57,Morning,0,Yes,No,"Action, Drama",7,6,2,Always,Alone,Sometimes,No,Sometimes,No,Bike,Often,3,No,3.13
+3/17/2023 14:22:50,Morning,5,No,No,Drama,7.5,3,2,Always,Alone,Sometimes,Yes,Sometimes,No,Public Transport,Sometimes,3,Yes,3.37
+3/17/2023 14:22:58,Evening,0,Yes,Yes,"Action, Comedy, Horror",9,2.5,7.5,Always,Alone,Sometimes,No,Never,No,Shuttle,Sometimes,2,Yes,3.15
+3/17/2023 14:23:51,Evening,0,No,No,"Comedy, Horror",6,4,4,Mostly,Alone,Sometimes,No,Sometimes,No,Public Transport,Sometimes,2.5,Yes,3.3
+3/17/2023 14:24:02,Morning,0,No,No,Drama,6,5.5,1,Mostly,Alone,Often,Yes,Sometimes,No,Walk,Sometimes,2,Yes,2.92
+3/17/2023 14:24:50,Morning,4,Yes,No,"Action, Comedy, Horror, Science Fiction",7.5,2.5,2.5,Mostly,Alone,Never,No,Sometimes,No,Public Transport,Never,2.5,Yes,3.2
+3/17/2023 14:35:19,Evening,2,Yes,No,Action,7.5,5.5,0,Mostly,Alone,Sometimes,Yes,Never,No,Public Transport,Sometimes,1.5,No,2.3
+3/17/2023 14:41:42,Evening,0,No,No,Science Fiction,5.5,4,1,Always,Alone,Never,No,Never,No,Public Transport,Never,1.5,No,2.3
+3/17/2023 14:45:16,Morning,0,No,Yes,"Action, Comedy, Drama",6.5,3.5,30,Always,Alone,Never,No,Sometimes,No,Drive,Sometimes,1,No,2.3
+3/17/2023 15:03:30,Morning,0,No,No,Drama,6,4,1,Always,Alone,Never,Yes,Never,No,Public Transport,Never,1,Yes,2.3
+3/17/2023 15:06:35,Morning,14,No,No,Action,3,6,0,Always,Alone,Sometimes,Yes,Sometimes,Yes,Public Transport,Sometimes,2.5,Yes,3.5
+3/17/2023 15:10:40,Morning,0,No,No,Drama,4.5,2.5,0,Always,Alone,Sometimes,No,Never,No,Public Transport,Never,1.5,Yes,2.3
+3/17/2023 15:31:33,Evening,0,Yes,Yes,Horror,7,3,1,Mostly,Alone,Sometimes,No,Never,No,Public Transport,Never,1,No,2.3
+3/17/2023 15:50:56,Evening,2,Yes,No,"Action, Comedy, Drama, Science Fiction",7,8,0,Always,Alone,Often,No,Sometimes,No,Public Transport,Sometimes,4,No,2.3
+3/17/2023 16:26:38,Evening,2,Yes,Yes,"Action, Horror, Science Fiction",6.5,4,6.5,Always,Alone,Sometimes,No,Sometimes,No,Walk,Sometimes,1,Yes,2.38
+3/17/2023 18:21:46,Evening,7,No,No,Drama,6,2.5,3.5,Always,Alone,Sometimes,No,Always,Yes,Public Transport,Sometimes,3,Yes,2.3
+3/17/2023 18:32:02,Evening,0,No,Yes,"Action, Drama, Science Fiction",5.5,3,0,Always,With Friends,Sometimes,No,Often,No,Walk,Sometimes,2,No,2.84
+3/17/2023 18:45:15,Morning,14,Yes,No,Comedy,6,5,18,Always,Alone,Sometimes,Yes,Sometimes,No,Shuttle,Sometimes,1.5,Yes,2.6
+3/17/2023 21:27:53,Evening,2,No,No,Comedy,7.5,2,2,Sometimes,With Friends,Sometimes,No,Never,No,Shuttle,Never,1.5,Yes,2.3
+3/19/2023 11:27:03,Morning,0,No,Yes,"Action, Comedy, Horror",8,2,0,Always,Alone,Always,Yes,Often,No,Public Transport,Often,5,Yes,3.95
+4/1/2023 17:55:47,Evening,1,Yes,Yes,"Comedy, Drama",4,3,0,Mostly,With Friends,Never,No,Never,No,Public Transport,Sometimes,1,No,2.3
+4/1/2023 18:00:21,Morning,35,No,No,Action,9,0.5,30,Never,Alone,Never,No,Never,Yes,Drive,Never,5,No,3.9
+4/1/2023 19:46:07,Evening,20,Yes,Yes,"Action, Comedy, Drama, Horror, Science Fiction",9,6,5,Sometimes,Alone,Never,No,Never,No,Bike,Never,2,No,2.8
+4/1/2023 19:47:05,Morning,1,No,No,"Comedy, Drama, Horror, Science Fiction",5,5,0,Always,Alone,Never,No,Never,No,Public Transport,Never,1.5,No,2.3
+4/1/2023 19:51:06,Afternoon,4,No,Yes,Action,6.5,4,4,Always,Alone,Sometimes,No,Sometimes,Yes,Walk,Sometimes,3.5,Yes,3.76
+4/1/2023 20:20:15,Evening,0,Yes,Yes,"Action, Comedy, Drama",7,5,4,Rarely,Alone,Never,No,Never,No,Walk,Never,2.5,Yes,3.4
+4/1/2023 20:38:34,Afternoon,6,Yes,Yes,"Action, Comedy, Drama, Science Fiction",8,2,2,Always,Alone,Never,Yes,Never,Yes,Drive,Sometimes,1,Yes,2.7
+4/1/2023 20:51:30,Afternoon,5,Yes,No,Science Fiction,8,2,30,Always,Alone,Never,Yes,Never,Yes,Drive,Never,5,No,3.99
+4/1/2023 22:29:40,Afternoon,2,Yes,Yes,"Action, Comedy",8,2,5,Mostly,Alone,Never,No,Never,No,Public Transport,Never,6,Yes,3.9
+4/4/2023 21:44:21,Evening,0,No,Yes,"Action, Comedy, Science Fiction",10,2,0,Never,Alone,Never,No,Never,Yes,Shuttle,Never,3.5,Yes,3.05
+4/8/2023 17:11:19,Morning,10,Yes,No,"Action, Comedy, Horror",8,2,3,Always,Alone,Sometimes,Yes,Never,No,Bike,Sometimes,4,No,3.52
+4/8/2023 17:15:58,Afternoon,2,Yes,Yes,"Action, Comedy, Drama, Science Fiction",7,0,0,Mostly,Alone,Never,No,Never,No,Shuttle,Sometimes,4,Yes,3.67
+4/8/2023 17:16:38,Afternoon,1,Yes,Yes,"Action, Drama, Science Fiction",6,2,3,Mostly,Alone,Never,No,Never,No,Shuttle,Sometimes,4.5,Yes,3.81
+4/8/2023 18:21:51,Morning,1,Yes,Yes,"Action, Comedy, Drama, Science Fiction",5.5,4,12,Always,Alone,Sometimes,No,Often,Yes,Public Transport,Never,5,Yes,3.95
+4/15/2023 2:14:23,Evening,0,Yes,Yes,"Action, Comedy, Drama, Science Fiction",5.5,2,2,Mostly,Alone,Sometimes,No,Never,No,Bike,Never,4,No,3.22
+4/15/2023 2:20:04,Evening,1,Yes,Yes,Action,6,2,3,Mostly,Alone,Sometimes,No,Never,Yes,Public Transport,Sometimes,3,Yes,3
+4/15/2023 2:27:43,Evening,6.5,No,No,Horror,5,8,3,Always,Alone,Sometimes,No,Sometimes,No,Public Transport,Sometimes,5,Yes,3.94
+4/15/2023 2:33:15,Morning,10.5,Yes,Yes,Action,5.5,5.5,0,Always,Alone,Sometimes,Yes,Never,Yes,Bike,Never,4,Yes,3.02
+4/15/2023 2:35:15,Evening,0,Yes,Yes,"Comedy, Drama, Horror, Science Fiction",7,3,0,Always,Alone,Sometimes,No,Sometimes,No,Public Transport,Sometimes,4.5,Yes,3.87
+4/15/2023 9:52:53,Evening,0,Yes,Yes,"Comedy, Drama, Horror, Science Fiction",5.5,3.5,0,Always,Alone,Often,No,Often,No,Public Transport,Sometimes,5,Yes,3.94
+4/15/2023 10:24:37,Evening,0,Yes,No,"Comedy, Drama, Horror, Science Fiction",6,3,0,Mostly,Alone,Never,Yes,Never,Yes,Bike,Never,5.5,Yes,3.9
+4/15/2023 14:55:17,Evening,0,Yes,No,"Action, Comedy, Science Fiction",7,1,0,Always,With Friends,Never,Yes,Never,No,Public Transport,Never,4,Yes,3.47
+4/17/2023 1:49:03,Morning,12,Yes,Yes,"Action, Comedy, Drama, Horror, Science Fiction",6,3,6,Mostly,Alone,Never,No,Never,No,Public Transport,Sometimes,3,No,3.51
+4/20/2023 6:04:20,Morning,7,Yes,Yes,"Comedy, Science Fiction",7,4.5,4.5,Always,Alone,Never,Yes,Sometimes,No,Drive,Sometimes,3.5,Yes,3.4
+4/20/2023 13:56:21,Evening,0,Yes,Yes,"Drama, Horror, Science Fiction",4,3,0,Mostly,Alone,Often,No,Never,No,Bike,Never,4,No,3.4
+4/25/2023 22:57:29,Evening,2,Yes,Yes,"Action, Horror",9,7,3,Mostly,Alone,Never,No,Sometimes,No,Public Transport,Never,1,No,3.15
+4/25/2023 22:58:44,Evening,4,Yes,No,"Comedy, Drama, Horror",7,1,2,Always,Alone,Never,No,Never,No,Public Transport,Never,5,Yes,3.87
+4/25/2023 22:59:25,Afternoon,2,Yes,Yes,"Action, Comedy, Drama, Horror, Science Fiction",4,8,7,Sometimes,Alone,Never,No,Never,Yes,Walk,Never,1,Yes,2.7
+4/25/2023 23:01:53,Evening,4,Yes,Yes,"Action, Comedy, Science Fiction",5,7,1,Rarely,Alone,Never,No,Sometimes,Yes,Bike,Never,2,No,2.87
+4/25/2023 23:03:20,Morning,2,No,No,Science Fiction,7,2,3,Always,Alone,Never,Yes,Never,No,Public Transport,Always,6,Yes,3.93
+4/25/2023 23:04:40,Afternoon,0,Yes,Yes,"Action, Comedy",6,5,5,Mostly,Alone,Sometimes,No,Sometimes,No,Public Transport,Sometimes,3,No,2.8
+4/25/2023 23:04:53,Evening,0,No,Yes,"Action, Comedy, Drama, Horror, Science Fiction",5,10,0,Sometimes,Alone,Never,Yes,Never,No,Public Transport,Never,2,No,2.67
+4/25/2023 23:06:19,Morning,2,No,No,"Drama, Science Fiction",8,2.5,3,Always,Alone,Often,Yes,Often,No,Shuttle,Often,5,Yes,3.84
+4/25/2023 23:06:25,Afternoon,12,No,Yes,"Action, Comedy, Drama, Horror, Science Fiction",6,12,0,Sometimes,Alone,Never,No,Never,Yes,Shuttle,Never,1.5,Yes,2.81
+4/25/2023 23:08:09,Afternoon,2,Yes,Yes,"Horror, Science Fiction",6,3,1,Always,Alone,Always,Yes,Often,No,Public Transport,Often,6,Yes,3.85
+4/25/2023 23:10:22,Morning,1,No,No,"Comedy, Drama",6,1,1,Mostly,Alone,Often,Yes,Often,No,Bike,Often,6,Yes,3.73
+4/25/2023 23:10:40,Evening,0,Yes,Yes,"Action, Comedy, Drama, Horror, Science Fiction",7,9,2,Sometimes,Alone,Never,No,Never,Yes,Public Transport,Never,1,No,2.52
+4/25/2023 23:11:18,Morning,0,Yes,No,Drama,7,2,2,Mostly,Alone,Often,No,Sometimes,No,Walk,Often,5,Yes,3.78
+4/25/2023 23:11:44,Evening,5,Yes,Yes,"Action, Comedy, Drama, Horror, Science Fiction",5,12,3,Sometimes,Alone,Never,No,Never,No,Drive,Never,2,No,2.98
+4/25/2023 23:11:54,Evening,3,Yes,Yes,"Action, Comedy, Horror",7,4,5,Mostly,Alone,Never,Yes,Often,Yes,Public Transport,Sometimes,3,Yes,3.15
+4/25/2023 23:13:52,Afternoon,3,No,Yes,"Action, Comedy, Drama",5,2,0,Mostly,Alone,Sometimes,No,Often,No,Shuttle,Often,6,Yes,3.86
+4/25/2023 23:14:16,Morning,7,Yes,Yes,Science Fiction,8,5,6,Mostly,With Friends,Sometimes,No,Sometimes,Yes,Public Transport,Sometimes,2,No,2.9
+4/25/2023 23:14:22,Afternoon,5,Yes,Yes,"Action, Comedy, Drama, Horror, Science Fiction",7,6,1,Sometimes,Alone,Never,No,Never,No,Public Transport,Never,1,No,2.21
+4/25/2023 23:15:21,Morning,5,No,No,Action,7,4,1,Always,With Friends,Always,Yes,Sometimes,Yes,Walk,Always,2.5,Yes,3.25
+4/25/2023 23:16:23,Morning,0,Yes,No,"Drama, Science Fiction",7,2,1,Mostly,Alone,Sometimes,Yes,Often,No,Walk,Sometimes,5,No,3.89
+4/25/2023 23:18:07,Evening,3,Yes,Yes,"Action, Drama, Science Fiction",6,14,0,Rarely,Alone,Never,No,Never,Yes,Shuttle,Never,0.5,No,1.98
+4/25/2023 23:18:34,Afternoon,2,No,Yes,"Action, Comedy, Drama",6,2,1,Mostly,Alone,Sometimes,Yes,Often,No,Public Transport,Often,5,No,3.79
+4/25/2023 23:20:40,Morning,0,Yes,Yes,Science Fiction,8,2,0,Always,Alone,Sometimes,Yes,Always,Yes,Public Transport,Always,4,Yes,3.25
+4/25/2023 23:20:49,Afternoon,3,Yes,Yes,"Action, Comedy, Drama",8,2,0,Mostly,Alone,Sometimes,Yes,Never,No,Shuttle,Never,5,Yes,3.83
+4/25/2023 23:20:51,Evening,8,Yes,Yes,"Action, Comedy, Drama, Horror, Science Fiction",5,10,12,Rarely,With Friends,Never,No,Never,Yes,Walk,Never,0.5,No,1.86
+4/25/2023 23:23:30,Morning,2,Yes,Yes,"Action, Horror, Science Fiction",5,8,5,Sometimes,Alone,Sometimes,No,Sometimes,No,Public Transport,Often,1,No,2.1
+4/25/2023 23:23:39,Afternoon,2,Yes,Yes,"Comedy, Drama",7,2,0,Mostly,Alone,Often,No,Often,No,Bike,Sometimes,4.5,Yes,3.74
+4/25/2023 23:23:52,Evening,2,No,Yes,Comedy,8,2,2,Always,Alone,Always,Yes,Always,Yes,Shuttle,Often,3,Yes,3.3
+4/25/2023 23:26:08,Morning,0,Yes,Yes,"Horror, Science Fiction",5,2,0,Sometimes,Alone,Sometimes,Yes,Often,No,Walk,Sometimes,6,No,3.67
+4/25/2023 23:26:52,Morning,5,Yes,No,Science Fiction,8,2,6,Always,With Tutor,Sometimes,Yes,Sometimes,No,Walk,Sometimes,6,Yes,3.65
+4/25/2023 23:26:52,Morning,5,No,Yes,"Action, Drama",7,5,4,Mostly,With Friends,Never,No,Sometimes,No,Walk,Sometimes,2,No,3.2
+4/25/2023 23:27:23,Evening,5,No,Yes,Comedy,9,4,4,Always,With Friends,Often,No,Sometimes,No,Shuttle,Sometimes,5,Yes,3.5
+4/25/2023 23:27:35,Morning,2,Yes,No,"Comedy, Horror",6,2,0,Mostly,Alone,Often,No,Sometimes,No,Bike,Often,5,No,3.72
+4/25/2023 23:29:11,Afternoon,7,No,Yes,"Action, Drama, Horror",6,6,2,Mostly,Alone,Sometimes,No,Never,No,Public Transport,Sometimes,1.5,No,3.32
+4/25/2023 23:29:45,Evening,4,Yes,Yes,"Action, Comedy, Drama",4,3,0,Sometimes,With Friends,Never,Yes,Never,No,Public Transport,Never,2,Yes,2.4
+4/25/2023 23:30:32,Morning,7,No,No,Science Fiction,8,1,14,Always,With Tutor,Often,Yes,Often,No,Walk,Often,6,Yes,3.8
+4/25/2023 23:31:16,Evening,2,Yes,Yes,"Action, Comedy, Drama",3,4,3,Rarely,Alone,Never,No,Never,No,Bike,Never,1,Yes,2.12
+4/25/2023 23:32:21,Evening,12,Yes,Yes,Action,7,5,2,Mostly,Alone,Sometimes,No,Never,No,Drive,Sometimes,2.5,No,3.37
+4/25/2023 23:32:33,Afternoon,3,Yes,Yes,"Comedy, Drama, Horror",4,4,0,Rarely,With Friends,Never,No,Never,No,Walk,Never,2,Yes,2.35
+4/25/2023 23:33:28,Morning,0,Yes,Yes,"Comedy, Drama, Horror, Science Fiction",4,4,0,Sometimes,Alone,Never,No,Never,No,Walk,Never,2,Yes,2.5
+4/25/2023 23:33:33,Morning,2,Yes,Yes,"Action, Comedy, Drama, Horror",8,5,1,Mostly,Alone,Sometimes,No,Sometimes,Yes,Bike,Sometimes,1.5,No,3.28
+4/25/2023 23:34:26,Evening,2,No,Yes,"Comedy, Drama",5,5,0,Sometimes,With Friends,Never,No,Never,No,Public Transport,Never,3,Yes,2.68
+4/25/2023 23:34:30,Evening,2,Yes,Yes,"Action, Drama",9,8,5,Always,Alone,Sometimes,No,Sometimes,No,Public Transport,Sometimes,2.5,No,3.42
+4/25/2023 23:35:04,Afternoon,2,Yes,Yes,"Comedy, Drama, Horror",5,1,0,Sometimes,With Friends,Never,No,Never,No,Drive,Never,2,Yes,2.56
+4/25/2023 23:35:48,Morning,10,No,Yes,Action,8,2,7,Mostly,Alone,Sometimes,Yes,Sometimes,No,Shuttle,Sometimes,5,Yes,3.6
+4/25/2023 23:35:51,Morning,9,No,Yes,"Action, Horror",8,8,5,Always,Alone,Sometimes,No,Sometimes,Yes,Bike,Sometimes,3,No,3.47
+4/25/2023 23:35:59,Evening,1,No,Yes,"Drama, Science Fiction",9,5,2,Sometimes,With Friends,Never,No,Sometimes,No,Bike,Never,2,Yes,2.43
+4/25/2023 23:37:02,Evening,4,Yes,Yes,"Action, Comedy, Horror",7,6,5,Mostly,Alone,Never,No,Sometimes,No,Shuttle,Never,1.5,No,3.2
+4/25/2023 23:37:16,Evening,0,No,Yes,"Drama, Horror",10,6,0,Rarely,With Friends,Never,No,Never,No,Public Transport,Never,1,Yes,2.43
+4/25/2023 23:38:57,Evening,8,Yes,Yes,"Action, Horror",9,5,4,Mostly,Alone,Sometimes,No,Never,No,Walk,Never,2.5,No,3.35
+4/25/2023 23:39:10,Afternoon,3,Yes,No,"Comedy, Drama, Horror",7,2,0,Sometimes,Alone,Never,No,Never,No,Shuttle,Sometimes,1.5,Yes,2.63
+4/25/2023 23:40:53,Morning,5,Yes,Yes,"Comedy, Drama, Science Fiction",4,5,3,Mostly,Alone,Sometimes,No,Sometimes,Yes,Public Transport,Never,1,No,2.2
+4/25/2023 23:41:00,Afternoon,0,Yes,Yes,"Comedy, Drama, Horror",3,1,0,Sometimes,Alone,Never,No,Never,No,Walk,Never,1,Yes,2.42
+4/25/2023 23:42:41,Evening,0,Yes,Yes,"Action, Drama, Science Fiction",7,10,5,Always,Alone,Sometimes,No,Sometimes,No,Drive,Never,1.5,No,3.35
+4/25/2023 23:43:08,Evening,2,Yes,Yes,"Action, Comedy, Drama, Horror",5,2,0,Sometimes,Alone,Sometimes,No,Sometimes,No,Walk,Never,2,Yes,2.7
+4/25/2023 23:46:27,Evening,10,Yes,No,Science Fiction,8,4,5,Sometimes,Alone,Often,No,Sometimes,No,Bike,Often,6,Yes,3.7
+4/25/2023 23:47:19,Afternoon,0,Yes,Yes,"Action, Comedy, Drama, Horror",4,5,1,Sometimes,Alone,Sometimes,No,Never,No,Walk,Never,1,Yes,2.23
+4/25/2023 23:48:29,Evening,2,Yes,Yes,"Action, Comedy, Drama, Horror",5,5,0,Sometimes,With Friends,Never,Yes,Never,No,Public Transport,Never,2,Yes,2.55
+4/25/2023 23:49:40,Afternoon,0,No,Yes,"Comedy, Drama",5,5,5,Mostly,With Friends,Often,No,Sometimes,No,Walk,Sometimes,2.5,Yes,2.6
+4/25/2023 23:50:37,Morning,5,No,Yes,"Action, Drama, Science Fiction",8,4,4,Always,Alone,Often,Yes,Sometimes,No,Public Transport,Sometimes,5,Yes,3.8
+4/25/2023 23:51:01,Evening,1,Yes,Yes,"Action, Comedy, Horror",9,5,0,Sometimes,Alone,Sometimes,No,Never,No,Walk,Never,2,Yes,2.47
+4/25/2023 23:53:49,Morning,8,Yes,Yes,Action,8,4,2,Always,Alone,Always,No,Sometimes,No,Drive,Sometimes,6,No,3.95
+4/25/2023 23:54:17,Morning,6,No,Yes,Science Fiction,7,2,5,Always,Alone,Sometimes,No,Often,No,Shuttle,Sometimes,6,Yes,3.4
+4/25/2023 23:54:17,Evening,2,Yes,Yes,"Comedy, Drama, Horror",4,2,0,Sometimes,Alone,Sometimes,No,Never,No,Walk,Never,1,Yes,2.65
+4/25/2023 23:56:29,Morning,10,No,Yes,"Action, Drama, Science Fiction",8,5,3,Always,Alone,Sometimes,Yes,Sometimes,Yes,Shuttle,Sometimes,6,No,3.72
+4/25/2023 23:57:37,Morning,2,Yes,Yes,"Comedy, Drama, Horror",8,2,0,Mostly,Alone,Sometimes,No,Sometimes,No,Public Transport,Sometimes,3,No,3.1
+4/25/2023 23:58:38,Afternoon,0,Yes,Yes,"Action, Drama, Science Fiction",4,6,2,Mostly,Alone,Never,No,Never,Yes,Bike,Sometimes,2,No,2.2
+4/25/2023 23:59:04,Evening,2,Yes,Yes,"Action, Comedy, Drama, Horror, Science Fiction",8,5,2,Always,Alone,Sometimes,No,Often,No,Shuttle,Sometimes,5,No,3.68
+4/25/2023 23:59:58,Morning,5,Yes,Yes,"Action, Drama, Science Fiction",7,5,5,Always,Alone,Sometimes,No,Sometimes,No,Shuttle,Often,4,No,3.55
+4/26/2023 0:02:06,Morning,7,No,Yes,Science Fiction,8,1,5,Always,With Friends,Often,Yes,Sometimes,No,Walk,Sometimes,5,Yes,3.7
+4/26/2023 0:03:14,Morning,8,No,Yes,"Action, Comedy, Drama, Horror, Science Fiction",8,5,5,Always,Alone,Often,Yes,Sometimes,No,Bike,Sometimes,4,No,3.5
+4/26/2023 0:03:39,Afternoon,0,Yes,Yes,"Action, Comedy, Drama",3,2,0,Mostly,Alone,Sometimes,No,Sometimes,No,Bike,Sometimes,3,Yes,3.22
+4/26/2023 0:05:33,Afternoon,0,Yes,Yes,"Comedy, Drama",5,2,2,Mostly,Alone,Sometimes,No,Sometimes,No,Shuttle,Sometimes,3,Yes,3.42
+4/26/2023 0:06:17,Morning,8,No,Yes,"Action, Drama, Horror, Science Fiction",8,5,5,Always,Alone,Sometimes,No,Sometimes,Yes,Shuttle,Sometimes,3.5,No,3.57
+4/26/2023 0:07:15,Morning,12,No,Yes,"Action, Drama, Science Fiction",8,3,5,Always,Alone,Sometimes,Yes,Sometimes,No,Public Transport,Sometimes,5,No,4
+4/26/2023 0:07:19,Evening,0,Yes,Yes,"Action, Comedy, Horror",6,2,0,Mostly,Alone,Never,No,Never,No,Public Transport,Never,3,Yes,3.67
+4/26/2023 0:08:19,Evening,12,Yes,Yes,"Action, Drama, Science Fiction",6,8,5,Mostly,Alone,Sometimes,No,Sometimes,No,Shuttle,Never,2.5,No,3.5
+4/26/2023 0:09:38,Evening,2,Yes,Yes,"Comedy, Drama, Horror",7,4,0,Mostly,Alone,Sometimes,No,Never,No,Walk,Never,3,Yes,3.52
+4/26/2023 0:10:52,Evening,0,Yes,Yes,"Action, Drama, Science Fiction",5,5,4,Sometimes,Alone,Never,No,Sometimes,No,Walk,Often,5,No,3.6
+4/26/2023 0:12:45,Evening,3,Yes,Yes,"Comedy, Drama, Horror",6,2,0,Sometimes,Alone,Sometimes,No,Sometimes,No,Bike,Never,2.5,Yes,3.47
+4/26/2023 0:13:35,Morning,15,No,Yes,"Action, Horror",8,5,5,Always,Alone,Sometimes,No,Sometimes,No,Shuttle,Sometimes,3,No,3.58
+4/26/2023 0:14:58,Morning,10,No,Yes,"Action, Horror, Science Fiction",8,5,5,Always,Alone,Sometimes,No,Sometimes,No,Bike,Sometimes,4,No,3.78
+4/26/2023 0:15:15,Afternoon,6,Yes,Yes,"Drama, Horror",7,3,1,Mostly,Alone,Never,No,Never,No,Public Transport,Never,3,Yes,3.71
+4/26/2023 0:15:49,Afternoon,0,Yes,Yes,"Comedy, Drama, Horror",3,6,2,Sometimes,Alone,Never,No,Sometimes,No,Public Transport,Sometimes,1,No,1.9
+4/26/2023 0:16:26,Afternoon,8,No,Yes,"Action, Comedy, Drama, Horror",6,2,2,Mostly,Alone,Sometimes,No,Sometimes,No,Bike,Sometimes,1,Yes,3.22
+4/26/2023 0:18:15,Evening,6,Yes,Yes,"Comedy, Drama, Science Fiction",7,4,2,Mostly,With Friends,Sometimes,No,Sometimes,Yes,Bike,Sometimes,1.5,No,3.18
+4/26/2023 0:18:35,Afternoon,7,No,Yes,"Comedy, Science Fiction",8,5,4,Mostly,With Friends,Sometimes,No,Sometimes,Yes,Walk,Sometimes,4,No,2.6
+4/26/2023 0:18:59,Evening,2,Yes,Yes,Horror,7,5,0,Sometimes,Alone,Never,No,Never,No,Walk,Never,2,No,3.48
+4/26/2023 0:21:17,Afternoon,4,No,Yes,"Drama, Horror",8,4,4,Mostly,With Tutor,Sometimes,Yes,Sometimes,No,Walk,Sometimes,3,No,2.8
+4/26/2023 0:22:20,Afternoon,2,No,Yes,"Action, Comedy, Horror",4,6,0,Sometimes,Alone,Never,No,Never,Yes,Public Transport,Never,2,No,3.1
+4/26/2023 0:22:27,Evening,10,Yes,Yes,"Action, Comedy, Drama, Horror, Science Fiction",8,5,5,Mostly,With Tutor,Sometimes,No,Sometimes,No,Shuttle,Sometimes,5,No,3.62
+4/26/2023 0:23:18,Evening,0,Yes,Yes,"Comedy, Drama, Horror",6,2,0,Mostly,Alone,Never,No,Never,No,Public Transport,Never,2.5,No,3.06
+4/26/2023 0:26:39,Afternoon,0,No,Yes,"Action, Comedy, Drama, Horror",6,2,0,Sometimes,Alone,Never,No,Never,No,Bike,Never,2,No,3.28
+4/26/2023 0:27:53,Afternoon,0,No,Yes,"Action, Science Fiction",8,5,6,Sometimes,With Tutor,Sometimes,No,Sometimes,No,Public Transport,Sometimes,3,No,2.8
+4/26/2023 0:28:30,Afternoon,5,Yes,Yes,"Comedy, Drama, Horror, Science Fiction",6,2,0,Mostly,Alone,Never,No,Never,No,Public Transport,Sometimes,1.5,No,2.97
+4/26/2023 0:29:19,Evening,4,No,Yes,"Drama, Horror",5,4,0,Sometimes,Alone,Often,No,Sometimes,No,Public Transport,Never,2.5,No,3.58
+4/26/2023 0:29:43,Morning,7,No,No,Science Fiction,7,2,12,Always,With Tutor,Often,Yes,Often,No,Walk,Sometimes,7,Yes,4
+4/26/2023 0:29:49,Morning,8,No,Yes,"Action, Comedy, Horror, Science Fiction",8,4,3,Always,Alone,Sometimes,Yes,Often,No,Public Transport,Sometimes,5,No,3.8
+4/26/2023 0:30:03,Evening,5,Yes,Yes,"Drama, Horror",8,4,0,Sometimes,Alone,Sometimes,No,Often,No,Walk,Never,1,No,3.14
